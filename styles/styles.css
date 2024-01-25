@@ -1,0 +1,57 @@
+body {
+  background-color: #fef1d3;
+  width: 80%;
+  margin: auto;
+  padding: 0;
+  height: 100vh;
+}
+
+h1 {
+  width: 300px;
+  text-align: center;
+}
+
+.titles {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.images {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+.solid-img {
+  fill: #d76144;
+}
+
+.svg-logo {
+  background-color: #73BDA8;
+}
+
+.stars-est {
+  fill: #73BDA8;
+}
+
+.stitches {
+  stroke: #D2A24C;
+  stroke-width: 3px;
+}
+
+.dh-name {
+  fill: #6F5643;
+}
+
+.dh-name:hover {
+ 
+}
+
