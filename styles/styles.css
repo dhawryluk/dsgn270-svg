@@ -52,7 +52,7 @@ h1 {
 }
 
 .zoom {
-  transition: transform .2s;
+  transition: transform .3s;
 }
 
 .zoom:hover {
